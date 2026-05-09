@@ -1,8 +1,8 @@
-export const PRESET_USERS = [
+export const PRESET_USERS = [         
   {
     id: 1,
-    name: 'Amara Uwase',
-    email: 'amara@dev.rw',
+    name: 'Kim Kard',
+    email: 'Kim@dev.rw',
     password: 'pass123',
     avatar: 'https://i.pravatar.cc/80?u=amara_uwase_1',
     role: 'Frontend Dev',
@@ -10,8 +10,8 @@ export const PRESET_USERS = [
   },
   {
     id: 2,
-    name: 'Keza Mutoni',
-    email: 'keza@dev.rw',
+    name: 'Gigi Hadid',
+    email: 'Gigi@dev.rw',
     password: 'pass123',
     avatar: 'https://i.pravatar.cc/80?u=keza_mutoni_2',
     role: 'Vue.js Engineer',
@@ -28,8 +28,8 @@ export const PRESET_USERS = [
   },
   {
     id: 4,
-    name: 'Nadia Ingabire',
-    email: 'nadia@dev.rw',
+    name: 'Anok Yai',
+    email: 'Anok@dev.rw',
     password: 'pass123',
     avatar: 'https://i.pravatar.cc/80?u=nadia_ingabire_4',
     role: 'UI/UX Designer',
@@ -37,8 +37,8 @@ export const PRESET_USERS = [
   },
   {
     id: 5,
-    name: 'Jean-Pierre Habimana',
-    email: 'jp@dev.rw',
+    name: 'Bella Hadid',
+    email: 'Bella@dev.rw',
     password: 'pass123',
     avatar: 'https://i.pravatar.cc/80?u=jp_habimana_5',
     role: 'Backend Engineer',
@@ -46,7 +46,7 @@ export const PRESET_USERS = [
   },
   {
     id: 6,
-    name: 'Claudine Uwimana',
+    name: 'Kylie Jenner',
     email: 'claudine@dev.rw',
     password: 'pass123',
     avatar: 'https://i.pravatar.cc/80?u=claudine_uwimana_6',
@@ -55,8 +55,8 @@ export const PRESET_USERS = [
   },
   {
     id: 7,
-    name: 'Eric Nshimiyimana',
-    email: 'eric@dev.rw',
+    name: 'Kendall Jenner',
+    email: 'Kendall@dev.rw',
     password: 'pass123',
     avatar: 'https://i.pravatar.cc/80?u=eric_nshimi_7',
     role: 'Mobile Dev',
@@ -64,8 +64,8 @@ export const PRESET_USERS = [
   },
   {
     id: 8,
-    name: 'Solange Dusabe',
-    email: 'solange@dev.rw',
+    name: 'Deepika Padu',
+    email: 'deepi@dev.rw',
     password: 'pass123',
     avatar: 'https://i.pravatar.cc/80?u=solange_dusabe_8',
     role: 'Data Engineer',
@@ -73,8 +73,8 @@ export const PRESET_USERS = [
   },
   {
     id: 9,
-    name: 'Dev Kigali2',
-    email: 'dev2@dev.rw',
+    name: 'Khourtney',
+    email: 'Khourty@dev.rw',
     password: 'pass123',
     avatar: 'https://i.pravatar.cc/80?u=dev_kigali2_9',
     role: 'React Developer',
@@ -82,8 +82,8 @@ export const PRESET_USERS = [
   },
   {
     id: 10,
-    name: 'Pacifique Iradukunda',
-    email: 'pacifique@dev.rw',
+    name: 'Kris Jenner',
+    email: 'Kris@dev.rw',
     password: 'pass123',
     avatar: 'https://i.pravatar.cc/80?u=pacifique_iradukunda_10',
     role: 'Cloud Architect',
@@ -91,8 +91,8 @@ export const PRESET_USERS = [
   },
   {
     id: 11,
-    name: 'Vestine Mukamana',
-    email: 'vestine@dev.rw',
+    name: 'Khloe Kard',
+    email: 'Khloe@dev.rw',
     password: 'pass123',
     avatar: 'https://i.pravatar.cc/80?u=vestine_mukamana_11',
     role: 'QA Engineer',
@@ -100,8 +100,8 @@ export const PRESET_USERS = [
   },
   {
     id: 12,
-    name: 'Thierry Nsabimana',
-    email: 'thierry@dev.rw',
+    name: 'Hilal Atli',
+    email: 'Hilal@dev.rw',
     password: 'pass123',
     avatar: 'https://i.pravatar.cc/80?u=thierry_nsabi_12',
     role: 'Security Engineer',
